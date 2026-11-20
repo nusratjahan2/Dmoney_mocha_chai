@@ -47,4 +47,4 @@ npm test
 ```
 
 ## Test output
-![Test output](./screenshots/test-output.png)
+![alt text](<Screenshot 2026-11-20 131327.png>)
